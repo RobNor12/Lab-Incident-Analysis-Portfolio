@@ -4,10 +4,10 @@ This repository documents my hands-on investigations into cybersecurity incident
 
 ## 🛡️ Methodology
 Each case study covers:
-1. **Scenario Analysis**: Understanding the threat landscape[cite: 1].
-2. **Forensic Investigation**: Log analysis and triage[cite: 1].
-3. **Detection & Remediations**: How to identify and stop the threat[cite: 1].
-4. **Tooling Application**: How I used my custom scripts to accelerate the investigation[cite: 1].
+1. **Scenario Analysis**: Understanding the threat landscape.
+2. **Forensic Investigation**: Log analysis and triage.
+3. **Detection & Remediations**: How to identify and stop the threat.
+4. **Tooling Application**: How I used my custom scripts to accelerate the investigation.
 
 ## 📂 Repository branchs
 | Repistory Name | Repoistory Specilization | Repistory Link |
