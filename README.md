@@ -17,4 +17,4 @@ Each case study covers:
 
 ## 🔗 Integrated Ecosystem
 * **[View my Security Engineering Projects](https://github.com/RobNor12/Security-Engineering-Projects/blob/Overview/README.md).**
-* **[View my Professional Identity & Credentials](https://github.com/RobNor12/Portfolio/blob/main/README.md).**
+* **[View my Professional Identity & Credentials](https://github.com/RobNor12/Profession-Identitiy-Portfolio).**
