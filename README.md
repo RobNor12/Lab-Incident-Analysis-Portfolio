@@ -12,8 +12,8 @@ Each case study covers:
 ## 📂 Repository branchs
 | Repistory Name | Repoistory Specilization | Repistory Link |
 | :--- | :--- | :--- |
-| Hack The Box case Studies | Case studies involving the Hack The Box learning platform |
-| Try Hack Me case Studies | Case studies involving the Try Hack Me learning platform |
+| Hack The Box case Studies | Case studies involving the Hack The Box learning platform | [HTB branch](https://github.com/RobNor12/Lab-Incident-Analysis-Portfolio/tree/hack-the-box-case-studies)
+| Try Hack Me case Studies | Case studies involving the Try Hack Me learning platform | [THM branch]()
 
 ## 🔗 Integrated Ecosystem
 * **[View my Professional Identity & Credentials](https://github.com/RobNor12/Portfolio/blob/main/README.md).
