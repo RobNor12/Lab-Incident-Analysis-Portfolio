@@ -16,5 +16,5 @@ Each case study covers:
 | Try Hack Me case Studies | Case studies involving the Try Hack Me learning platform | [THM branch](https://github.com/RobNor12/Lab-Incident-Analysis-Portfolio/tree/try-hack-me-case-studies) |
 
 ## 🔗 Integrated Ecosystem
-* **[View my Professional Identity & Credentials](https://github.com/RobNor12/Portfolio/blob/main/README.md).
-* **[View my Security Engineering Projects](https://github.com/RobNor12/Engineering-Projects-Repository/blob/Overview/README.md).
+* **[View my Professional Identity & Credentials](https://github.com/RobNor12/Portfolio/blob/main/README.md).**
+* **[View my Security Engineering Projects](https://github.com/RobNor12/Engineering-Projects-Repository/blob/Overview/README.md).**
