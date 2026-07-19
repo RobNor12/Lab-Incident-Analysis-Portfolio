@@ -14,6 +14,7 @@ Each case study covers:
 | :--- | :--- | :--- |
 | Hack The Box case Studies | Case studies involving the Hack The Box learning platform | [HTB branch](https://github.com/RobNor12/Lab-Incident-Analysis-Portfolio/tree/hack-the-box-case-studies) | 
 | Try Hack Me case Studies | Case studies involving the Try Hack Me learning platform | [THM branch](https://github.com/RobNor12/Lab-Incident-Analysis-Portfolio/tree/try-hack-me-case-studies) |
+| Cyberdefenders case studies | Case studies involving Cyberdefenders learning platform | [Cyberdefenders branch](https://github.com/RobNor12/Lab-Incident-Analysis-Portfolio/tree/cyberdefenders-case-studies)|
 
 ## 🔗 Integrated Ecosystem
 * **[View my Security Engineering Projects](https://github.com/RobNor12/Security-Engineering-Projects/blob/Overview/README.md).**
